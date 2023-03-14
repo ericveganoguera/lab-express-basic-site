@@ -1,0 +1,27 @@
+body{
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+}
+
+#nav{
+    border: 1px solid red;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    gap: 5%;
+    height: 20px;
+}
+
+#nav a{
+    text-decoration: none;
+}
+
+#nav a:visited{
+
+}
+
+#nav a:hover{
+
+}
